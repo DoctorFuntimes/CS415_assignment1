@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPickup.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/Blue_glow.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/Evil_numbers.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/Good_numbers.uasset",
+				"C:/Users/Gable/Desktop/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/Red_glow.uasset"
+			]
+		}
+	]
+}
